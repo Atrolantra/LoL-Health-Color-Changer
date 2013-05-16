@@ -2,7 +2,7 @@ LoL-Health-Color-Changer
 ========================
 
 A small project that I set myself to apply everything I have learned about Python over the last few weeks of my university course. 
-The program is super simple and allows you to change what color your champions health bar is in the game League of Legends. 
+The program is super simple and allows you to change what color your champion's health bar is in the game League of Legends. 
 We all know the troubles of playing Katarina and getting lost in a teamfight or the likes but not any more. 
 
 Inspiration for this project is dedicated to this guy. 
