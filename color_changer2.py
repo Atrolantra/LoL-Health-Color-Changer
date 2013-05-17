@@ -38,11 +38,7 @@ def apply_color():
         red = str(rgb[0])
         green = str(rgb[1])
         blue = str(rgb [2])
-        address = ["C:/Riot Games", "/League of Legends", "/RADS", "/solutions", "/lol_game_client_sln", "/releases/"]
-        for _ in range(5):
-            if dir1 == "".join(address[0:_]):
-                league_path = dir1 + "".join(address[_:7])
-                break
+        league_path = dir1 + "/League of Legends/RADS/solutions/lol_game_client_sln/releases/"
         for subdirname in os.listdir(league_path):
             release = subdirname
         league_path = league_path + str(release) + "/deploy/DATA/menu/hud/"
@@ -91,7 +87,6 @@ c = Canvas(root, height=100, width=200)
 c.pack()
 
 mainloop()
-
 
 
 
