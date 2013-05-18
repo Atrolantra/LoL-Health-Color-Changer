@@ -11,6 +11,9 @@ He wrote his in c though.
 
 To use this simply download the Python file and run it. You may need to install Python if you don't have it already. 
 
+If you run it with the client open you'll have to restart before it applies.
+If you run it with the client closed then it will apply the next time you start it up and play.
+
 There are still things I'd like to add and implement and so I'll continue working on it. This also means that if it breaks
 and you can't fix it yourself then you can give me a shout. 
 
