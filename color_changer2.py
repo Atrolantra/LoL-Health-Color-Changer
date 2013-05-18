@@ -2,10 +2,12 @@
 #By Eric Briese
 
 #Todo:
-#Add ability to change health and mana of allies, self and enemies on normal or colorblind. (And maybe other things)
+#Add ability to change other things such as mana. 
 #Set it out better. (Will be necessary if more functionality is added.)
 #Possibly find a way to change the rgb printed text color when on a dark background.
 #Devise a more elegant way for the program to find the necessary line to edit. 
+#Add better and more concise feedback for if the program ran and updated correctly.
+#An option to save the League directory so you don't have to reselect it everytime.
 #More comments.
 
 import os
